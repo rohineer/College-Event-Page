@@ -1,35 +1,37 @@
 # 🎓 College Event Landing Page
 
-A modern and visually appealing landing page designed for a college technical event.  
-This project focuses on clean UI design, dark-themed styling, and responsive layout using only HTML and CSS.
+A dark-themed, responsive landing page template for college fests and technical events. Built with plain HTML and CSS for easy customization and fast loading.
 
----
+## What it does
+- Presents event title, date, venue, and short description
+- Gradient hero section and clear "Register Now" CTA
+- Simple schedule layout and polished dark UI
+- Mobile-friendly, no JavaScript required
 
-## 📌 Project Overview
+## Technologies
+- HTML5
+- CSS3
 
-The College Event Landing Page provides essential information about a college fest or technical event, including event details, 
-schedule, and a call-to-action for registration. It is designed to look professional, engaging, and user-friendly across different screen sizes.
+## Project structure
+- `index.html` — main page
+- `styles/` — CSS files (e.g., `main.css`)
+- `assets/` — images and other static assets
 
----
+## Quick start
+1. Clone the repo:
+   git clone https://github.com/rohineer/College-Event-Page.git
+2. Open `index.html` in your browser, or run a simple server:
+   python -m http.server 8000
+   then visit http://localhost:8000
 
-## ✨ Features
+## Customization
+- Edit colors and variables in `styles/main.css`.
+- Replace fonts via the HTML head or CSS.
+- Point the CTA button to your registration form or page.
 
-- Dark-themed modern UI
-- Gradient hero section for strong visual impact
-- Clear event details (date, venue, description)
-- Event schedule section with styled list
-- Call-to-action "Register Now" button
-- Responsive spacing for mobile and desktop
-- Clean and well-structured HTML & CSS
+## Contributing
+Small fixes and improvements welcome. Fork, create a branch, commit, and open a PR. Open an issue for major changes.
 
----
-
-## 🛠️ Technologies Used
-
-- HTML5  
-- CSS3 
-
----
-
-## 📂 Project Structure
-
+## License & contact
+Add a `LICENSE` file (e.g., MIT) if you want to permit reuse.  
+Maintainer: rohineer
